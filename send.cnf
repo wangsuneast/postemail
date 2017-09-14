@@ -1,0 +1,10 @@
+[mail]
+sender=wangsuneast@163.com
+password=!@wrd8902036
+host=smtp.163.com
+port=25
+[db]
+user=root
+password=sd234
+port=3306
+host=127.0.0.1
